@@ -1,0 +1,29 @@
+.navbar{
+  height: 50px;
+  background-color: #2085F3;
+  display: flex;
+  justify-content: center;
+}
+.navContainer{
+  width: 100%;
+  max-width: 1024px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo{
+  font-weight: 500;
+}
+
+.navButton{
+  margin-left: 24px;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  background-color: #2420F3;
+  color: white;
+  border-radius: 8px; 
+
+}
